@@ -1,3 +1,5 @@
 .ipynb_checkpoints
 models
 *.zip
+*.h5
+*.pkl
