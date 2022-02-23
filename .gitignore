@@ -3,3 +3,4 @@ models
 *.zip
 *.h5
 *.pkl
+*.pyc
