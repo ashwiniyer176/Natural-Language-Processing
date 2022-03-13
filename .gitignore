@@ -4,3 +4,6 @@ models
 *.h5
 *.pkl
 *.pyc
+
+# Word Embeddings
+glove.6B.100d.txt
